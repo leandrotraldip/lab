@@ -31,3 +31,4 @@
 
 #### script
 apt install i3 xinit kitty neovim vifm cmus mpv zathura calcurlse yt-dlp pulseaudio pamix redshift go-mtpfs unzip light firmware-amd-graphcis firmware-atheros amd64-microcode tlp
+
